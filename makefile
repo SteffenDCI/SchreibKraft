@@ -12,3 +12,6 @@ showmigrations:
 
 shell:
 	python manage.py shell
+
+activate:
+	source .venv/bin/activate
